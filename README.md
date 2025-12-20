@@ -1,7 +1,7 @@
 # “Whole Microbiome Analyses of Wastewater Treatment Plants across Europe” (University of Cologne, 2025)
 
 This repository contains all scripts, supplementary data tables, and the final genus-level count matrix used in the data analysis for the paper:  
-“Whole Microbiome Analyses of Wastewater Treatment Plants across Europe” (DOI: to be provided)
+*“Whole Microbiome Analyses of Wastewater Treatment Plants across Europe”* (DOI: to be provided)
 
 The study investigated how latitude and season influence microbial community composition across seven European wastewater treatment plants (WWTPs). We built upon the metagenomic dataset from Becsei et al. (2024; DOI: 10.1038/s41467-024-51957-8), which focused solely on bacteria, and extended the analysis to include eukaryotic microorganisms, providing a more complete picture of environmental drivers and potential cross-community interactions.
 
